@@ -22,4 +22,4 @@
 
 ------
 
-觉得本项目帮助到你的话，请给我的 [build-your-own-react-router](https://github.com/build-your-own-tutorial/build-your-own-react-router) 项目点个⭐️吧！
+觉得本项目帮助到你的话，请给我点个⭐️吧！
