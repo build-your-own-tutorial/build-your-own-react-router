@@ -18,7 +18,7 @@
 - 在线预览 [codesandbox](https://codesandbox.io/s/great-moon-09fn6)
 
 ## 四、更多
-详细的分析文章请至 https://daweilv.com/2019/09/13/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA-react-router/
+详细的分析文章请至 https://www.daweilv.com/2019/09/13/build-your-own-react-router/
 
 ------
 
